@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68325" started-at="2018-05-24T11:08:38Z" finished-at="2018-05-24T11:09:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68325" started-at="2018-05-24T11:08:38Z" finished-at="2018-05-24T11:09:47Z">
+      <class name="gittest.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:gittest.NewTest@6a8658ff]" name="beforeTest" is-config="true" duration-ms="16" started-at="2018-05-24T11:08:38Z" finished-at="2018-05-24T11:08:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testgit()[pri:0, instance:gittest.NewTest@6a8658ff]" name="testgit" duration-ms="68123" started-at="2018-05-24T11:08:39Z" finished-at="2018-05-24T11:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgit -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:gittest.NewTest@6a8658ff]" name="afterTest" is-config="true" duration-ms="140" started-at="2018-05-24T11:09:47Z" finished-at="2018-05-24T11:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- gittest.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
